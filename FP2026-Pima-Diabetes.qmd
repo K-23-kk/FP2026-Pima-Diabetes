@@ -141,7 +141,7 @@ library(gridExtra)
 
 
 # Use read.csv() instead of load()
-diabetes_data <- read.csv("C:/Users/arunt/Downloads/Pima Indian Diabetes Database-20260211/Pima_diabetes.csv")
+diabetes_data <- read.csv("Pima_diabetes.csv")
 
 # Convert Outcome to factor (as the function does)
 diabetes_data$Outcome <- factor(diabetes_data$Outcome, 
