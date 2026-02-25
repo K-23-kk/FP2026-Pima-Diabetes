@@ -4,7 +4,8 @@
 
 ## 📊 Overview
 
-A comprehensive statistical analysis of the Pima Indians Diabetes Dataset examining risk factors and predictors of type 2 diabetes in a high-risk population. This project analyzes 768 female patients with multiple health metrics to identify key factors associated with diabetes outcomes.
+This analysis explores the Pima Indians Diabetes Dataset containing medical measurements for 768 female patients. The data was collected by the National Institute of Diabetes and Digestive and Kidney Diseases and includes diagnostic measurements to investigate diabetes risk factors. The Pima Indian population has historically shown high diabetes prevalence, making this dataset valuable for understanding disease predictors.
+Data was originally collected in the 1990s from Pima Indian women aged 21+ living near Phoenix, Arizona
 
 ## 🎯 Research Questions
 
